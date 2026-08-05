@@ -1,5 +1,5 @@
 ## Hi there I'm CHEN YUAN. You can call me Nancy.👋 
-Senior Python Engineer specializing in **Backend Systems**, **Data Pipelines**, and **LLM Applications**.
+Senior Python Engineer specializing in **Backend Systems**, **Data Pipelines**, **Web Scraping / Data Extraction** and **LLM Applications**.
 <!--
 **chenyuannacy/chenyuannacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ### 🛠 Technical Skills
 
 - **Core:** Python 3.x (Asyncio, Type Hinting, OOP, Pytest), SQL, Bash
-- **AI & LLM:** Tensorflow, Keras, PyTorch, OpenAI API
 - **Backend & Web:** FastAPI, Django, Flask, RESTful APIs, Celery
 - **Data & DevOps:** Pandas, NumPy, PostgreSQL, Redis, Docker, Git
+- **Web Scraping & Automation:** Playwright, Selenium, Scrapy, BeautifulSoup4, HTTPX, aiohttp
+- **AI & LLM:** Tensorflow, Keras, PyTorch, OpenAI API
 ---
 
 ### 🌐 Languages
